@@ -3,7 +3,7 @@ system('pip install smtplib')
 system('pip install datetime')
 system('pip install colorama')
 system('pip install getpass')
-system('xdg-open https://t.me/NullCyberi')
+system('xdg-open https://api.whatsapp.com/send?phone=7321892842&text=I%20am%20Ravi%20singh')
 import smtplib
 from sys import exit
 from email.message import EmailMessage
@@ -31,10 +31,10 @@ print(f'''
 {green}__      ___         _                       {red} _  ___ _ _
 {green}\ \    / / |_  __ _| |_ ___ __ _ _ __ _ __  {red}| |/ (_) | |___ _ _
 {green} \ \/\/ /| ' \/ _` |  _(_-</ _` | '_ \ '_ \ {red}| ' <| | | / -_) '_|
-{green}  \_/\_/ |_||_\__,_|\__/__/\__,_| .__/ .__/ {red}|_|\_\_|_|_\___|_|
+{green}  \_/\_/ |_||_\__,_|\__/__/\__,_| .__/ .__/ {red}|_|\_\_|_|_\___|_|.   😠😡 Mr.H4cker
 {green}                                |_|  |_|
 
-{red}[!]{green} By Bl4ckwin
+{red}[!]{green} By 🌹🌹🌹 Ravisingh 🌹🌹🌹
 {red}[!]{green} Version 1.0
 ''')
 sleep(0.1)
